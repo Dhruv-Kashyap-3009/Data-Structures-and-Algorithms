@@ -1,7 +1,0 @@
-Dynamic Programming is used decrease the Time Complexity of any Recursive Code.
-
-1. Memoization(Top Down DP):- It basically means storing the value of the previous calls.
-    Eg:- Fibonacci takes the complexity of O(2^n) to find the nth fibonacci.
-         By Using DP, we store the value of a call in a array and takes the value form the array for further use.
-
-2. Tabulation(Bottom Up DP):- Using Previous answers to calculate new answers.
