@@ -1,0 +1,27 @@
+Passing Class to functions:-
+    1. We have to declare the function outside main.
+    2.Classes are passed by reference.
+
+Classes in different file:-
+    Class can be created in different file but have to be in the same package.
+
+    Class can be created in different package but has to be imported by using the statement "import packageName.className;"
+
+Access Modifiers:-
+    1. Public:- all packages
+    2. Private:- same class
+    3. Default:- same package
+
+Getter:-
+    These are used to get the value of an element with private scope to return their value. We create a function in the same class that returns
+    the value of private element.
+
+Setter:-
+    These are used to set the value of an element with private scope to change their value. We create a function that that takes a parameter,
+    in the same class and change that elements value.
+
+final Keyword:-
+    Used to assign a value to any element which cannot be changed.
+
+static functions:-
+    Used if we want to access a function in the class through just className.functionName
