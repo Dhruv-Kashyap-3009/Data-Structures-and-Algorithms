@@ -1,0 +1,12 @@
+Stacks works on the principle of LIFO(Last In First Out).
+
+Stacks basically has three operations:-
+    1.Push:- Pushing the element to the top of Stack.
+    2.Pop:- Taking out element from the top of Stack.
+    3.Peek:- Returns the element present at the top of the Stack.
+
+Stack Underflow:-
+    When the stack is empty and we are popping or peeking an element, in this condition an error of Underflow arises.
+
+Stack Overflow:-
+    When the stack is full and we are pushing an element, in this condition an error of Overflow arises.
