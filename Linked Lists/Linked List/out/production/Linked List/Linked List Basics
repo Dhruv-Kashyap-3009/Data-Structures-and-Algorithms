@@ -1,0 +1,14 @@
+Linked list are stored in non contiguous manner.
+
+Insertion is really easy in the linked list but, to get any element the Time Complexity is O(n).
+
+Types of Linked List:-
+    1.Singly Linked List: Each node is connected to the next node.
+    2.Doubly Linked List: Each node is connected to the next and the previous node.
+    3.Circular Linked List: All the connection of nodes forms a circle.
+
+Every node in the Linked list consist of tow data types:-
+    1. Stores the data like integer values.
+    2. Stores the address of the next node.(Last node contains null instead of address).
+
+First node is called head and the last node is called tail.
