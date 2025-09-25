@@ -1,0 +1,6 @@
+The Recursive spell tells us the three major steps to follow while making a recursive function.
+These are:-
+
+STEP 1 :  Identify the subproblem(recursive calls) and have faith that they will do all other steps.
+STEP 2 :  Do the self work.
+STEP 3 :  Identify the base case or the halting condition.
