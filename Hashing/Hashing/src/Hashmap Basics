@@ -1,0 +1,20 @@
+Hashmap involves storing key value pair.
+
+In hashmap, entries are stored in ordered manner.
+
+In hashing, operations like searching, inserting and deletion all occurs in O(1), whereas in array it will be
+O(n).
+
+Hashmap implements the Map Interface in the Collection Framework.
+
+Hashmap uses hashtable for storage internally.
+
+In hashmap value can be same but the key is unique.
+
+The put method is used for both Insertion and Updation, if the key is present it will update otherwise it will
+insert that key value pair.
+
+The remove method is used for both deletion, if the key is present it will remove and return it otherwise it
+will return null.
+
+Sometimes, Hash Functions can result in same hash value for different keys. This is called Collisions.
