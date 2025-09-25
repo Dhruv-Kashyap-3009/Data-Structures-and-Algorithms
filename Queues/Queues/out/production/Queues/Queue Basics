@@ -1,0 +1,11 @@
+Queue works on the principle of FIFO( First in First out).
+
+Operations on Queue:-
+    1.Add
+    2.Remove
+    3.Peek
+
+Types of Queues:-
+    1.Queues
+    2.Circular Queue
+    3.DequeUsingCollectionFramework
