@@ -1,0 +1,7 @@
+01 Knapsack
+    In 01 Knapsack, every element is either included in the sack or or skipped but is processed in single operation. That means that
+    every element is either included in the sack once or skipped.
+
+Unbounded Knapsack
+    In unbounded knapsack, any element can have multiple occurrence. If the element is skipped then it is processed, but if the element
+    is included it can be included multiple times.
