@@ -7,6 +7,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
