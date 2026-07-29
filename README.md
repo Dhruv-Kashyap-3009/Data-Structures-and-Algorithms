@@ -10,6 +10,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
@@ -20,16 +21,19 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
@@ -58,4 +62,12 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
