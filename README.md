@@ -87,4 +87,17 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0817-linked-list-components](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0817-linked-list-components) |
+| [1367-linked-list-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1367-linked-list-in-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1367-linked-list-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1367-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1367-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
