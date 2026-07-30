@@ -88,6 +88,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0817-linked-list-components](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0817-linked-list-components) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1367-linked-list-in-binary-tree) |
+| [1669-merge-in-between-linked-lists](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1669-merge-in-between-linked-lists) |
 ## Tree
 |  |
 | ------- |
