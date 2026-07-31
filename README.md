@@ -31,6 +31,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
@@ -119,6 +120,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
