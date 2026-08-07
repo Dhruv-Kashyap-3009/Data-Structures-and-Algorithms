@@ -80,6 +80,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
@@ -142,6 +143,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -208,9 +210,14 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
