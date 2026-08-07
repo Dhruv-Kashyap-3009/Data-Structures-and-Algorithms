@@ -8,6 +8,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
@@ -211,6 +212,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -220,4 +222,8 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
