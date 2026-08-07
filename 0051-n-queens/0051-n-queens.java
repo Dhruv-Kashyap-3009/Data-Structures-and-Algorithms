@@ -31,15 +31,13 @@ class Solution {
     }
     private void placeQueens(char[][] board, int n, int i, List<List<String>> ans){
         if(i==n){
-            List<String> l = new ArrayList<>();
-            for(int k=0;k<n;k++){
-                String s = "";
-                for(int j=0;j<n;j++){
-                    s += board[k][j];
-                }
-                l.add(s);
+            List<String> temp= new ArrayList<>();
+
+            for(int j=0; j<board.length;j++){
+                temp.add(new String(board[j]));
+
             }
-            ans.add(l);
+            ans.add(temp);
             return;
         }
 
