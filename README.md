@@ -56,6 +56,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
@@ -80,6 +81,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -188,6 +190,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Minimax
 |  |
 | ------- |
