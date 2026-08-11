@@ -163,6 +163,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
