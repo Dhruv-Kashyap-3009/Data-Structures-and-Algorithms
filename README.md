@@ -49,6 +49,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
@@ -186,6 +188,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
