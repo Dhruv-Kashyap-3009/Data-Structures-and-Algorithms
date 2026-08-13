@@ -170,6 +170,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0038-count-and-say](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -242,6 +243,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1652-defuse-the-bomb) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
