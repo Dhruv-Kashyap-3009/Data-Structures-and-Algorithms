@@ -29,6 +29,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -108,6 +109,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0877-stone-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
@@ -254,6 +256,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
