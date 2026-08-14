@@ -13,48 +13,28 @@
  *     }
  * }
  */
-class Triplet{
-    TreeNode node;
-    int parent;
-    int depth;
-
-    Triplet(TreeNode node, int parent, int depth){
-        this.node = node;
-        this.parent = parent;
-        this.depth = depth;
-    }
-}
 class Solution {
+    TreeNode xParent = null;
+    TreeNode yParent = null;
+    int xDepth = -1, yDepth = -1;
+    
     public boolean isCousins(TreeNode root, int x, int y) {
-        int xParent = -1;
-        int yParent = -1;
-        int xDepth = -1;
-        int yDepth = -1;
+        getDepthAndParent(root, x, y, 0, null);
+        return xDepth == yDepth && xParent != yParent? true: false;
+    }
 
-        Queue<Triplet> q = new LinkedList<>();
-
-        q.add(new Triplet(root, -1, 0));
-
-        while(!q.isEmpty()){
-            TreeNode node = q.peek().node;
-            int parent = q.peek().parent;
-            int depth = q.peek().depth;
-            q.remove();
-
-            if(node.val==x){
-                xParent = parent;
-                xDepth = depth;
-            }
-            if(node.val==y){
-                yParent = parent;
-                yDepth = depth;
-            }
-
-            if(node.left!=null) q.add(new Triplet(node.left, node.val, depth+1));
-            if(node.right!=null) q.add(new Triplet(node.right, node.val, depth+1));
+    public void getDepthAndParent(TreeNode root, int x, int y, int depth, TreeNode parent){
+        if(root == null){
+            return;
         }
-
-        if(xDepth==yDepth && xParent!=yParent) return true;
-        return false;
+        if(root.val == x){
+            xParent = parent;
+            xDepth = depth;
+        }else if(root.val == y){
+            yParent = parent;
+            yDepth = depth;
+        }       
+        getDepthAndParent(root.left, x, y, depth + 1, root);
+        getDepthAndParent(root.right, x, y, depth + 1, root);
     }
 }
