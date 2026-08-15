@@ -46,6 +46,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0169-majority-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0817-linked-list-components](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -188,6 +189,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -263,6 +265,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
