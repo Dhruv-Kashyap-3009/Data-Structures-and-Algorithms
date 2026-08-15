@@ -11,7 +11,7 @@ class Solution {
         for(int r=0;r<n;r++){
             sum+= arr[r];
 
-            while(sum>k){
+            while(l<=r && sum>k){
                 sum-= arr[l];
                 l++;
             }
