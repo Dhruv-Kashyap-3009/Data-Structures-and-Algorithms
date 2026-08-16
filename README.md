@@ -7,6 +7,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -130,6 +131,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -224,6 +226,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
