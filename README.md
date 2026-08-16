@@ -8,6 +8,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -90,6 +91,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
@@ -132,6 +134,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
