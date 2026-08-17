@@ -44,6 +44,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1652-defuse-the-bomb](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [2029-stone-game-ix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -91,6 +92,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1248-count-number-of-nice-subarrays](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -142,6 +144,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
@@ -276,6 +279,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Minimax
