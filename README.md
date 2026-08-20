@@ -25,6 +25,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0238-product-of-array-except-self](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
@@ -167,6 +168,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0125-valid-palindrome](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
@@ -194,6 +196,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -202,6 +205,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0231-power-of-two](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
@@ -403,4 +407,12 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
