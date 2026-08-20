@@ -12,6 +12,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0018-4sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
@@ -125,6 +126,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -143,6 +145,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +167,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0018-4sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -316,6 +320,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 ## Range Minimum/Maximum Query
 |  |
