@@ -13,6 +13,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -139,6 +140,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
@@ -201,6 +203,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 ## Counting
 |  |
