@@ -2,18 +2,19 @@ class Solution {
     private int countSubarray(int[] arr, int k){
         int n = arr.length;
 
-        int l = 0;
+        int l=0;
         int count = 0;
-        int countOdd = 0;
+        int odd = 0;
 
-        for(int r = 0; r<n ; r++){
-            if(arr[r]%2==1) countOdd++;
+        for(int r=0;r<n;r++){
+            if(arr[r]%2==1) odd++;
 
-            while(countOdd>k){
-                if(arr[l]%2==1) countOdd--;
+            while(odd>k){
+                if(arr[l]%2!=0) odd--;
                 l++;
             }
-            count+= r-l+1;
+
+            count += r-l+1;
         }
 
         return count;
