@@ -64,6 +64,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
+| [4020-elevator-requests-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [4020-elevator-requests-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/4020-elevator-requests-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
