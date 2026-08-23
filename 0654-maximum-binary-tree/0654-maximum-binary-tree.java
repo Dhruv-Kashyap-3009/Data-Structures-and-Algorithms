@@ -16,11 +16,10 @@
 class Solution {
     private TreeNode buildTree(int[] arr, int start, int end){
         if(start>end) return null;
-        if(start==end) return new TreeNode(arr[start]);
 
         int maxIdx = start;
 
-        for(int i=start;i<=end;i++){
+        for(int i=start+1;i<=end;i++){
             if(arr[maxIdx]<arr[i]) maxIdx = i;
         }
 
