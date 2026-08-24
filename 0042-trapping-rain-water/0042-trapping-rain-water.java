@@ -4,7 +4,7 @@ class Solution {
 
         int l = 0;
         int r = n-1;
-        int leftMax=Integer.MIN_VALUE;
+        int leftMax = Integer.MIN_VALUE;
         int rightMax = Integer.MIN_VALUE;
         int water = 0;
 
