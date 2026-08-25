@@ -114,6 +114,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1563-stone-game-v](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
+| [2843-count-symmetric-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2843-count-symmetric-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -435,6 +436,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Enumeration
 |  |
 | ------- |
+| [2843-count-symmetric-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
