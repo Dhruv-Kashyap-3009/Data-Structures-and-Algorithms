@@ -171,6 +171,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0097-interleaving-string) |
@@ -318,6 +319,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
@@ -339,6 +341,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
@@ -349,6 +352,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
