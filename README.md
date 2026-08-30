@@ -59,6 +59,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1563-stone-game-v](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1652-defuse-the-bomb](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [2029-stone-game-ix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -361,6 +362,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
