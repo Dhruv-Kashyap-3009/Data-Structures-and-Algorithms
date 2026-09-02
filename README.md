@@ -72,6 +72,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [4020-elevator-requests-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
