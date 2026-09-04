@@ -193,6 +193,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0152-maximum-product-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
@@ -350,6 +351,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
