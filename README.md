@@ -39,6 +39,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0713-subarray-product-less-than-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -194,6 +195,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
