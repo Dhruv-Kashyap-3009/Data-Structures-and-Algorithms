@@ -30,6 +30,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0283-move-zeroes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0622-design-circular-queue) |
@@ -201,6 +202,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0115-distinct-subsequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
@@ -630,4 +632,12 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
