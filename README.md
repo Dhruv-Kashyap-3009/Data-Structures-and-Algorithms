@@ -113,6 +113,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
@@ -297,6 +298,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0622-design-circular-queue) |
@@ -409,6 +411,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
