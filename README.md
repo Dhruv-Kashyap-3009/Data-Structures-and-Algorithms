@@ -135,6 +135,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
@@ -678,6 +679,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Complete Knapsack
 |  |
 | ------- |
