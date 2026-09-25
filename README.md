@@ -104,6 +104,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0904-fruit-into-baskets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
@@ -173,6 +174,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -191,6 +193,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
+| [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -416,6 +419,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -510,6 +514,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0623-add-one-row-to-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3310-remove-methods-from-project) |
@@ -560,6 +565,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
