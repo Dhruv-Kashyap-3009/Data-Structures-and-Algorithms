@@ -55,6 +55,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1046-last-stone-weight](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -238,6 +239,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1227-airplane-seat-assignment-probability) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -694,6 +696,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0079-word-search](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1289-minimum-falling-path-sum-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Longest Common Subsequence
 |  |
