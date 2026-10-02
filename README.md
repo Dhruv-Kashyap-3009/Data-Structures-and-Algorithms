@@ -276,6 +276,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0344-reverse-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -349,6 +350,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0622-design-circular-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0641-design-circular-deque) |
 | [0817-linked-list-components](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0817-linked-list-components) |
+| [0876-middle-of-the-linked-list](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1367-linked-list-in-binary-tree) |
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1669-merge-in-between-linked-lists) |
