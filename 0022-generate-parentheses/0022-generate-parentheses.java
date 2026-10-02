@@ -1,17 +1,17 @@
 class Solution {
-    private void generate(int open, int close, int n, String s, List<String> ans){
-        if(open==n && close==n){
+    private void generate(List<String> ans, String s, int open, int close, int n){
+        if(close==n){
             ans.add(s);
             return;
         }
 
-        if(open<n) generate(open+1, close, n, s+"(", ans);
-        if(close<open) generate(open, close+1, n, s+")", ans);
+        if(open<n) generate(ans, s+'(', open+1, close, n);
+
+        if(close<open) generate(ans, s+')', open, close+1, n);
     }
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-
-        generate(0, 0, n, "", ans);
+        generate(ans, "", 0, 0, n);
 
         return ans;
     }
