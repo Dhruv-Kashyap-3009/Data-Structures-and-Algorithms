@@ -391,6 +391,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0563-binary-tree-tilt](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -415,6 +416,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0563-binary-tree-tilt](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -438,6 +440,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0563-binary-tree-tilt](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -573,6 +576,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0226-invert-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
