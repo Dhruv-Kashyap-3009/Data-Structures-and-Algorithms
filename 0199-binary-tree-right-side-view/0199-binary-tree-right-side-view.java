@@ -14,21 +14,18 @@
  * }
  */
 class Solution {
-    private void inOrder(TreeNode root, List<Integer> ans, int depth){
+    private void solve(TreeNode root, List<Integer> ans, int level){
         if(root==null) return;
 
-        if(ans.size()<depth){
-            ans.add(root.val);
-        }
+        if(ans.size()<level) ans.add(root.val);
 
-        inOrder(root.right, ans, depth+1);
-        inOrder(root.left, ans, depth+1);
+        solve(root.right, ans, level+1); 
+        solve(root.left, ans, level+1);
     }
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
 
-        inOrder(root, ans, 1);
-
+        solve(root, ans, 1);
         return ans;
     }
 }
