@@ -388,6 +388,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0113-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
@@ -415,6 +416,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0113-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0508-most-frequent-subtree-sum) |
@@ -443,6 +445,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0113-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
@@ -474,6 +477,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0115-distinct-subsequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
@@ -643,6 +647,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
