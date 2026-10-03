@@ -394,6 +394,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0226-invert-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -464,6 +465,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0226-invert-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -761,6 +763,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
