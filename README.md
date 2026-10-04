@@ -59,6 +59,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
@@ -457,6 +458,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-number-of-closed-islands](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1367-linked-list-in-binary-tree) |
@@ -644,6 +646,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -824,6 +827,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
@@ -831,6 +835,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0079-word-search](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
