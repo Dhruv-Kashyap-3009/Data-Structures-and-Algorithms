@@ -206,6 +206,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0234-palindrome-linked-list](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -247,6 +248,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
@@ -507,6 +509,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -535,6 +538,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0011-container-with-most-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0781-rabbits-in-forest) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -691,6 +695,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
