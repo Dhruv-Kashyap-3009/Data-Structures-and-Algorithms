@@ -43,10 +43,8 @@ class Solution {
                 if(i==0) first = index;
                 if(i==size-1) last = index;
 
-                long newIndex = index - first;
-
-                if(node.left!=null) q.add(new Pair(node.left, newIndex*2L+1L));
-                if(node.right!=null) q.add(new Pair(node.right, newIndex*2L+2L));
+                if(node.left!=null) q.add(new Pair(node.left, index*2L+1L));
+                if(node.right!=null) q.add(new Pair(node.right, index*2L+2L));
             }
 
             maxWidth = Math.max(maxWidth, last-first+1);
