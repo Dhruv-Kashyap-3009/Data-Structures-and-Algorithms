@@ -15,18 +15,18 @@
  */
 class Solution {
     int ans = Integer.MIN_VALUE;
-    private int pathSum(TreeNode root){
+    private int solve(TreeNode root){
         if(root==null) return 0;
 
-        int leftSum = pathSum(root.left);
-        int rightSum = pathSum(root.right);
+        int left = solve(root.left);
+        int right = solve(root.right);
 
-        ans = Math.max(ans, root.val + leftSum + rightSum);
+        ans = Math.max(ans, root.val+left+right);
 
-        return Math.max(0, root.val + Math.max(leftSum, rightSum));
+        return Math.max(0, root.val + Math.max(left, right));
     }
     public int maxPathSum(TreeNode root) {
-        pathSum(root);
+        solve(root);
 
         return ans;
     }
