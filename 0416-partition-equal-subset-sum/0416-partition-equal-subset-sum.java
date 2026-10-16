@@ -1,24 +1,22 @@
 class Solution {
-    private boolean subsetSum(int[] arr, int i, int sum, Boolean[][] dp){
-        if(sum==0) return true;
-        if(i>=arr.length || sum<0) return false;
-        if(dp[i][sum]!=null) return dp[i][sum];
+    private boolean solve(int[] arr, int i, int target, Boolean[][] dp){
+        if(target==0) return true;
+        if(i>=arr.length) return false;
+        if(target<0) return false;
+        if(dp[i][target]!=null) return dp[i][target];
 
-        boolean take = subsetSum(arr, i+1, sum-arr[i], dp);
-        boolean skip = subsetSum(arr, i+1, sum, dp);
-
-        return dp[i][sum] = take || skip;
+        return dp[i][target] = solve(arr, i+1, target-arr[i], dp) || solve(arr, i+1, target, dp);
     }
     public boolean canPartition(int[] arr) {
+        int n = arr.length;
         int sum = 0;
 
-        for(int val : arr) sum+= val;
+        for(int val : arr) sum += val;
 
-        if(sum % 2 != 0) return false;
-        else{
-            int target = sum/2;
-            Boolean[][] dp = new Boolean[arr.length][target+1];
-            return subsetSum(arr, 0, target, dp);
-        }
+        if(sum%2!=0) return false;
+
+        Boolean[][] dp = new Boolean[n][sum/2+1];
+
+        return solve(arr, 0, sum/2, dp);
     }
 }
