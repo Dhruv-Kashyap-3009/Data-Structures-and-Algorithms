@@ -10,18 +10,20 @@ class Solution {
 
         return sb.reverse().toString();
     }
-    private String getString(int n){
+    private String getString(int n, int k){
         if(n==1) return "0";
         
         StringBuilder sb = new StringBuilder();
-        String prev = getString(n-1);
+        String prev = getString(n-1, k);
+
+        if(prev.length()>=k) return prev;
 
         sb.append(prev).append('1').append(reverseInvert(prev));
 
         return sb.toString();
     }
     public char findKthBit(int n, int k) {
-        String s = getString(n);
+        String s = getString(n, k);
 
         return s.charAt(k-1);
     }
