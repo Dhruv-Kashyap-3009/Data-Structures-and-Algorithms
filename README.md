@@ -100,6 +100,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3524-find-x-value-of-array-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -384,6 +385,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
@@ -646,6 +648,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -764,6 +767,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2843-count-symmetric-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
