@@ -191,6 +191,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2029-stone-game-ix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2843-count-symmetric-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2843-count-symmetric-integers) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -779,6 +780,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2843-count-symmetric-integers) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
