@@ -133,6 +133,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0508-most-frequent-subtree-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0677-map-sum-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0677-map-sum-pairs) |
 | [0740-delete-and-earn](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0740-delete-and-earn) |
 | [0781-rabbits-in-forest](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0817-linked-list-components) |
@@ -595,6 +596,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0677-map-sum-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -848,6 +850,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0303-range-sum-query-immutable](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0641-design-circular-deque) |
+| [0677-map-sum-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0677-map-sum-pairs) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
 | [1476-subrectangle-queries](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
@@ -993,4 +996,8 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Trie
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
