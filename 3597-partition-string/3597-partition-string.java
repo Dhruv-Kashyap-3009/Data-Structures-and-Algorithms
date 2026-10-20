@@ -4,17 +4,19 @@ class Solution {
         List<String> ans = new ArrayList<>();
         Set<String> set = new HashSet<>();
 
-        String temp = "";
+        StringBuilder temp = new StringBuilder();
 
         for(int i=0;i<n;i++){
             char c = s.charAt(i);
 
-            temp += c;
+            temp.append(c);
 
-            if(!set.contains(temp)){
-                ans.add(temp);
-                set.add(temp);
-                temp = "";
+            String curr = temp.toString();
+
+            if(!set.contains(curr)){
+                ans.add(curr);
+                set.add(curr);
+                temp = new StringBuilder();
             }
         }
 
