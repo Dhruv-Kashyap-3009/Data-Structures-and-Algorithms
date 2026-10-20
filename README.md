@@ -429,6 +429,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0169-majority-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2029-stone-game-ix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -628,6 +629,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2024-maximize-the-confusion-of-an-exam) |
