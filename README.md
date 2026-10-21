@@ -201,6 +201,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1927-sum-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2843-count-symmetric-integers) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -811,6 +812,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Enumeration
 |  |
 | ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2843-count-symmetric-integers) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3001-minimum-moves-to-capture-the-queen) |
