@@ -120,6 +120,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4020-elevator-requests-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
