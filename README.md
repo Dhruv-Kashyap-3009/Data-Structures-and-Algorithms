@@ -93,6 +93,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2326-spiral-matrix-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -281,6 +282,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1222-queens-that-can-attack-the-king](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1222-queens-that-can-attack-the-king) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2326-spiral-matrix-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -470,6 +472,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1670-design-front-middle-back-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1670-design-front-middle-back-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2326-spiral-matrix-iv) |
 ## Tree
 |  |
 | ------- |
@@ -989,6 +992,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2326-spiral-matrix-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2326-spiral-matrix-iv) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Longest Common Subsequence
 |  |
