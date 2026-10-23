@@ -160,6 +160,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2336-smallest-number-in-infinite-set) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -301,6 +302,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1046-last-stone-weight](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2336-smallest-number-in-infinite-set) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -886,6 +888,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
 | ------- |
@@ -900,6 +903,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
 | [1476-subrectangle-queries](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1670-design-front-middle-back-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1670-design-front-middle-back-queue) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quicksort
 |  |
 | ------- |
