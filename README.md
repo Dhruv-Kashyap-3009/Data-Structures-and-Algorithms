@@ -96,6 +96,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2352-equal-row-and-column-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -162,6 +163,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2336-smallest-number-in-infinite-set) |
+| [2352-equal-row-and-column-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -289,6 +291,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2326-spiral-matrix-iv) |
+| [2352-equal-row-and-column-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -1015,6 +1018,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2326-spiral-matrix-iv) |
+| [2352-equal-row-and-column-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Longest Common Subsequence
 |  |
