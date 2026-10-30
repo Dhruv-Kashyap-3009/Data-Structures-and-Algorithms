@@ -73,6 +73,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-subrectangle-queries](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -283,6 +284,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2390-removing-stars-from-a-string) |
@@ -772,6 +774,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
