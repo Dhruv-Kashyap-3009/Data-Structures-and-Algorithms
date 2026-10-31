@@ -52,6 +52,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0740-delete-and-earn](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0781-rabbits-in-forest](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0781-rabbits-in-forest) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0817-linked-list-components](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
@@ -249,6 +250,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0295-find-median-from-data-stream](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
@@ -318,6 +320,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1046-last-stone-weight](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -394,6 +397,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
@@ -428,6 +432,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
