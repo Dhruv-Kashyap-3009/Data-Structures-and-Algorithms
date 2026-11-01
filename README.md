@@ -15,6 +15,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0042-trapping-rain-water](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
