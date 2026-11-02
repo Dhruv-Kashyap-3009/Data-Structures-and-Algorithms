@@ -148,6 +148,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0141-linked-list-cycle](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
@@ -454,6 +455,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
@@ -666,6 +668,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0097-interleaving-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -855,6 +858,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
@@ -1123,4 +1127,20 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
