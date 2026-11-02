@@ -149,6 +149,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
@@ -669,6 +670,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0115-distinct-subsequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -949,6 +951,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
@@ -1121,6 +1124,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0677-map-sum-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0677-map-sum-pairs) |
 | [3597-partition-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3597-partition-string) |
 ## Shortest Path
