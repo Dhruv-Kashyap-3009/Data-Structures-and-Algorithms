@@ -43,6 +43,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0500-keyboard-row](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
+| [0554-brick-wall](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0554-brick-wall) |
 | [0622-design-circular-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0636-exclusive-time-of-functions) |
@@ -159,6 +160,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0500-keyboard-row](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
+| [0554-brick-wall](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0677-map-sum-pairs) |
