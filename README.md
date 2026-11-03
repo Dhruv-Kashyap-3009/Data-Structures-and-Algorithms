@@ -61,6 +61,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0817-linked-list-components](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
+| [0861-score-after-flipping-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
@@ -466,6 +467,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0231-power-of-two](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0861-score-after-flipping-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -739,6 +741,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0680-valid-palindrome-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0781-rabbits-in-forest](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0861-score-after-flipping-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1073,6 +1076,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0079-word-search](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
+| [0861-score-after-flipping-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0861-score-after-flipping-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0999-available-captures-for-rook) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1222-queens-that-can-attack-the-king) |
