@@ -13,7 +13,7 @@ class Solution {
             }
         }
 
-        for(int val : arr) if(val!=1) return -1;
+        if(arr[n-2]!=1 || arr[n-1]!=1) return -1;
 
         return ops;
     }
