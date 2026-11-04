@@ -121,6 +121,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -446,6 +447,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
@@ -476,6 +478,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -900,6 +903,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
 |  |
@@ -1069,6 +1073,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0933-number-of-recent-calls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union-Find
 |  |
 | ------- |
