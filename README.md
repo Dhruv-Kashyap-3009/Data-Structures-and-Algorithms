@@ -609,6 +609,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1302-deepest-leaves-sum) |
@@ -651,6 +652,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -700,6 +702,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1302-deepest-leaves-sum) |
