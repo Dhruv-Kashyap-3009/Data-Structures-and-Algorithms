@@ -52,6 +52,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
@@ -395,6 +396,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
@@ -782,6 +784,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0781-rabbits-in-forest](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0861-score-after-flipping-matrix) |
