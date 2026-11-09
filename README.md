@@ -504,6 +504,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0231-power-of-two](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0461-hamming-distance) |
 | [0861-score-after-flipping-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
