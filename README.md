@@ -326,6 +326,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -862,6 +863,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0402-remove-k-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Range Minimum/Maximum Query
 |  |
@@ -1026,6 +1028,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0622-design-circular-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0641-design-circular-deque) |
 | [0677-map-sum-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0677-map-sum-pairs) |
+| [0901-online-stock-span](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
@@ -1093,6 +1096,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1670-design-front-middle-back-queue) |
