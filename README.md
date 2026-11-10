@@ -221,6 +221,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -787,6 +788,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3498-reverse-degree-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3597-partition-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
