@@ -142,6 +142,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -423,6 +424,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
