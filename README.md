@@ -352,6 +352,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
@@ -775,6 +776,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
