@@ -80,6 +80,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1254-number-of-closed-islands](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
@@ -333,6 +334,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -1045,6 +1047,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0901-online-stock-span](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1472-design-browser-history) |
 | [1476-subrectangle-queries](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1670-design-front-middle-back-queue](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1670-design-front-middle-back-queue) |
