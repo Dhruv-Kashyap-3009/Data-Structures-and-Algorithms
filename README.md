@@ -467,6 +467,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2938-separate-black-and-white-balls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2938-separate-black-and-white-balls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
@@ -789,6 +790,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2938-separate-black-and-white-balls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -822,6 +824,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2938-separate-black-and-white-balls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
