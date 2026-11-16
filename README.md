@@ -684,6 +684,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1367-linked-list-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1367-linked-list-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -941,6 +942,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1302-deepest-leaves-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -958,6 +960,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1462-course-schedule-iv) |
 | [3310-remove-methods-from-project](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3310-remove-methods-from-project) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
@@ -1273,6 +1276,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1462-course-schedule-iv) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
