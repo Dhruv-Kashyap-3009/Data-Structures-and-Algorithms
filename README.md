@@ -265,6 +265,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2843-count-symmetric-integers) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
