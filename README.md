@@ -118,6 +118,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2270-number-of-ways-to-split-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2270-number-of-ways-to-split-array) |
 | [2326-spiral-matrix-iv](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
@@ -498,6 +499,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2270-number-of-ways-to-split-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2270-number-of-ways-to-split-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
