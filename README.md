@@ -140,6 +140,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
@@ -224,6 +225,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -653,6 +655,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -702,6 +705,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
@@ -820,6 +824,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3597-partition-string) |
