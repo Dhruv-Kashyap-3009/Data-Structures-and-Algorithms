@@ -92,6 +92,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -313,6 +314,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -525,6 +527,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1208-get-equal-substrings-within-budget](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
