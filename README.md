@@ -816,6 +816,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
