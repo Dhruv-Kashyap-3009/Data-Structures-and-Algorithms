@@ -253,6 +253,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
@@ -369,6 +370,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0999-available-captures-for-rook](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1222-queens-that-can-attack-the-king) |
@@ -796,6 +798,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0474-ones-and-zeroes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0537-complex-number-multiplication](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
