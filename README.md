@@ -168,6 +168,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3886-sum-of-sortable-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4020-elevator-requests-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -460,6 +461,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3665-twisted-mirror-path-count](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -883,6 +885,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
