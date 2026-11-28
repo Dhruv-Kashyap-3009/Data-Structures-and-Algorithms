@@ -205,6 +205,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0930-binary-subarrays-with-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -666,6 +667,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -714,6 +716,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
@@ -769,6 +772,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -986,6 +990,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
@@ -1005,6 +1010,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0508-most-frequent-subtree-sum](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0563-binary-tree-tilt) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1347,8 +1353,10 @@ This repo contains my code which I develop while learning Data Structures and Al
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
