@@ -664,6 +664,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0919-complete-binary-tree-inserter](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0919-complete-binary-tree-inserter) |
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -771,6 +772,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0919-complete-binary-tree-inserter](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0919-complete-binary-tree-inserter) |
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -992,6 +994,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0802-find-eventual-safe-states](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0919-complete-binary-tree-inserter](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0919-complete-binary-tree-inserter) |
 | [0993-cousins-in-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0993-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
@@ -1141,6 +1144,7 @@ This repo contains my code which I develop while learning Data Structures and Al
 | [0641-design-circular-deque](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0641-design-circular-deque) |
 | [0677-map-sum-pairs](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0677-map-sum-pairs) |
 | [0901-online-stock-span](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
+| [0919-complete-binary-tree-inserter](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0919-complete-binary-tree-inserter) |
 | [0933-number-of-recent-calls](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Dhruv-Kashyap-3009/Data-Structures-and-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
